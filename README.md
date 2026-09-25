@@ -1,7 +1,8 @@
 ## Hi there 👋
-## I'm ...
 
-hse art and design school ba Alumni
+<h1>I'm ...</h1>
+
+<li>hse art and design school ba Alumni</li>
 
 <!--
 **dianetk/dianetk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
