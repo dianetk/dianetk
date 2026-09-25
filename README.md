@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<h1>I'm ...</h1>
-
 <li>hse art and design school ba Alumni</li>
 
 <!--
