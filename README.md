@@ -1,6 +1,18 @@
-## Hi there 👋
+# 🎶🎷🐛
+### about me?
 
-<li>hse art and design school ba Alumni</li>
+  * [hse art and design school](https://hsedesign.ru/account/1f377efe718242f8bf342e7e78f048a6) communication +motion ba Alumni (2021-2025)
+  * completed [Garage](https://garagemca.org/) minor (2022-2024)
+  * completed WannaBe T-shaped Designer course (2026)
+  * coding mentor / teacher
+  * researcher
+  * digital artist
+  * gentle human
+
+### let's connect
+* [Instagram](https://www.instagram.com/ofcoursetobee/)
+* [Behance](https://www.behance.net/tobeeornottobee)
+* [Dprofile](https://dprofile.ru/dialtk)
 
 <!--
 **dianetk/dianetk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
