@@ -11,6 +11,9 @@
   * digital artist
   * gentle human
 
+[![My Skills](https://skillicons.dev/icons?i=figma,ae,ai,ps,blender,js,html,css,py,p5js&perline=10)](https://skillicons.dev)
+
+
 
 ### let's connect
 * [Instagram](https://www.instagram.com/ofcoursetobee/)
